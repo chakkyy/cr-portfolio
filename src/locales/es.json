@@ -1,0 +1,30 @@
+{
+  "hero-scene": {
+    "front-end": "Desarrollo front-end"
+  },
+  "about": {
+    "intro": "Desarrollador front-end y estudiante de diseño",
+    "first-paragraph": "Con mi pasión por el diseño y la interacción, mi objetivo es crear sitios web y apps con una experiencia de usuario y diseño de alta calidad. Comence a desarrollar front-end 2 años atras durante varias experiencias.",
+    "second-paragraph": "Amo participar en nuevos proyectos : Estoy abierto a oportunidades que me permitan codear apps desde el comienzo como asi tambien su identidad y diseño.",
+    "dev-title": "DESAROLLO FRONT-END",
+    "dev-first": "Desarrollo desde cero / Sitios web estáticas",
+    "dev-second": "CSS3 integration / Diseño responsive",
+    "dev-third": "CSS animaciones y transiciones, parallax",
+    "design-first": "Diseño de interfaces, prototipos",
+    "design-second": "Diseño de marca e identidad",
+    "design-third": "Experiencia de usuario",
+    "also-first": "Metodologias agiles (sprints / daily meeting)"
+  },
+  "contact": {
+    "send-mail": "Enviame un e-mail :"
+  },
+  "footer": {
+    "credits": "Diseño y desarrollo by Carlos Ramirez © 2022 - All rights reserved",
+    "techno": "Sitio web hecho con ReactJS / Redux / i18next / Prerender with React-Snap"
+  },
+  "detail": {
+    "visit": "Ver el sitio web",
+    "prev-project": "Proyecto anterior",
+    "next-project": "Proyecto siguiente"
+  }
+}
