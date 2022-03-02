@@ -46,14 +46,11 @@
   },
   "devDependencies": {
     "react-snap": "^1.23.0"
-  } ,
-  
-    "reactSnap": {
-      "puppeteerArgs": [
-        "--no-sandbox",
-        "--disable-setuid-sandbox"
-      ]
-    }
-  
-  
+  },
+  "reactSnap": {
+    "puppeteerArgs": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox"
+    ]
+  }
 }
